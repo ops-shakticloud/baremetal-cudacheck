@@ -1,5 +1,8 @@
 # Test CUDA functionality on Baremetal servers 
 
+NOTE: it is recommended to perform the mentioned steps from a non root linux account.
+
+
 ## 1. Check the driver version
 
 ```bash
