@@ -1,4 +1,4 @@
-# How to Select a Compatible NVIDIA CUDA Toolkit
+# Test CUDA functionality on Baremetal servers 
 
 ## 1. Check the driver version
 
