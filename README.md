@@ -39,7 +39,10 @@ wget https://developer.download.nvidia.com/compute/cuda/12.8.0/local_installers/
 ./cuda_12.8.0_570.86.10_linux.run --installpath=$PWD/12.8.0
 ```
 
+
+
 Select **Continue**:
+
 <img width="743" height="437" alt="image" src="https://github.com/user-attachments/assets/e34c2fbd-9c2d-4ff9-b703-52152d00c557" />
 
 <img width="743" height="437" alt="image" src="https://github.com/user-attachments/assets/ecd5fbc3-5d58-41e3-88b3-f790882adfdc" />
